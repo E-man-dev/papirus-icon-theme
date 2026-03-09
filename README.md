@@ -1,3 +1,5 @@
+ARCHIVED: This fork was created for the purpose of adding Sheepy: A Short Adventure icons to Papirus. That purpose has been fulfilled.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/preview.png" alt="preview"/>
 </p>
